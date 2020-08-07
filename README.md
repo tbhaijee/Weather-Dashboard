@@ -14,18 +14,18 @@ For reference, see the <a href = "#screenshots">"Screenshots" section</a> below.
 
 The website must consist of 7 pages total, including:
 
-* A <a href = "#landingpage">"landing" page</a> containing:
+* A <a href = "#landing">"landing" page</a> containing:
     * An explanation of the project.
     * Links to each visualizations page.
-* Four <a href = "#visualizationpages">"visualization" pages</a>, each with:
+* Four <a href = "#visualization">"visualization" pages</a>, each with:
     * A descriptive title and heading tag.
     * The plot/visualization itself for the selected comparison.
     * A paragraph describing the plot and its significance.
-* A <a href = "comparisonspage">"Comparisons" page</a> that:
+* A <a href = "comparisons">"Comparisons" page</a> that:
     * Contains all of the visualizations on the same page so we can easily visually compare them.
     * Uses a bootstrap grid for the visualizations.
         * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
-* A <a href="datapage">"Data" page</a> that:
+* A <a href="data">"Data" page</a> that:
     * Displays a responsive table containing the data used in the visualizations.
         * The table must be a bootstrap table component.
         * The data must come from exporting the .csv file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe. See the documentation here
@@ -55,22 +55,22 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 # Screenshots 
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
 
-# Landing page
+# Landing 
 Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-lg.PNG)
 
-Small screen: Landing page small screen ￼
+Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-sm.PNG)
 
-# Comparisons page
-Large screen: comparison page large screen
+# Comparisons 
+Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparison-lg.PNG)
 
-Small screen: comparison page small screen
+Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparison-sm.PNG)
 
-# Data page
-Large screen: data page large screen
+# Data 
+Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-lg.PNG)
 
-Small screen: data page small screen
+Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-sm.PNG)
 
-# Visualization pages
+# Visualization 
 You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen: visualize page large screen
@@ -78,7 +78,6 @@ Large screen: visualize page large screen
 Small screen: visualize page small screen
 
 # Navigation menu
-Large screen: nav menu large screen
-![Alt txt]()
-Small screen: nav menu small screen
+Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-lg.PNG)
+Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-sm.PNG)
 
