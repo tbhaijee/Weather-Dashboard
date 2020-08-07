@@ -56,28 +56,38 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
 
 # Landing 
-Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-lg.PNG)
+Large screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-lg.PNG)
 
-Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-sm.PNG)
+Small screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/landing-sm.PNG)
 
 # Comparisons 
-Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparison-lg.PNG)
+Large screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparision-lg.PNG)
 
-Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparison-sm.PNG)
+Small screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/comparision-sm.PNG)
 
 # Data 
-Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-lg.PNG)
+Large screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-lg.PNG)
 
-Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-sm.PNG)
+Small screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/data-sm.PNG)
 
 # Visualization 
 You'll build four of these, one for each visualization. Here's an example of one:
 
-Large screen: visualize page large screen
+Large screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/visualize-lg.PNG)
 
-Small screen: visualize page small screen
+Small screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/visualize-sm.PNG)
 
 # Navigation menu
-Large screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-lg.PNG)
-Small screen: ![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-sm.PNG)
+Large screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-lg.PNG)
+Small screen: 
+![Alt txt](https://github.com/tbhaijee/Weather-Dashboard/blob/master/Images/nav-sm.PNG)
 
